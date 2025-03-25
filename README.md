@@ -1,77 +1,56 @@
-## Hi there 👋,
+<div align="center">
+  
+# Hi there, I'm Ramtin Karbaschi 👋
 
-### I'm Ramtin Karbaschi, a machine learning and data analysis enthusiast.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Machine+Learning+Enthusiast;Data+Analysis+Expert;Open+Source+Contributor)](https://git.io/typing-svg)
 
--------
+</div>
 
-## 🧐 About
+---
 
-- 🌱 Passionate about exploring and applying machine learning algorithms
-- 😄 Proficient in computer vision, NLP, and statistical modeling
-- 🔭 Actively collaborating on open-source projects
-- 🏋️ Constantly learning and improving skills through practical applications
-- 💬 Ask me about anything related to machine learning and data analysis!
-- 📫 How to reach me: 
-  - Email: ramtin.karbaschi@example.com
-  - LinkedIn: [Ramtin Karbaschi](https://linkedin.com/in/ramtin-karbaschi)
-  - Twitter: [@RamtinKarbaschi](https://twitter.com/RamtinKarbaschi)
+## 🧐 About Me
 
--------
+I'm passionate about exploring the boundaries of machine learning and data analysis. With expertise in computer vision, NLP, and statistical modeling, I transform complex data into actionable insights. I'm constantly learning and improving my skills through practical applications and actively collaborate on open-source projects.
 
-## 🚀 Skills and Interests
+<p align="right">
+    <img href="mailto:ramtin.karbaschi@example.com" src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" width="20" height="20" alt="Email" />
+    &nbsp
+    <img href="https://linkedin.com/in/ramtin-karbaschi" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" width="20" height="20" alt="LinkedIn" />
+    &nbsp
+    <img href="https://twitter.com/RamtinKarbaschi" src="https://cdn-icons-png.flaticon.com/128/3256/3256013.png" width="20" height="20" alt="Twitter" />
+    &nbsp
+    <img href="https://t.me/RamtinKarbaschi" src="https://cdn-icons-png.flaticon.com/128/2111/2111646.png" width="20" height="20" alt="Telegram" />
+</p>
 
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Natural Language Processing
-- Statistical Modeling
-- Feature Engineering
-- Ensemble Learning Techniques
+---
 
--------
+## 🚀 Skills & Technologies
 
-## 💼 Projects
+<div align="center">
+  
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
 
-Here are some of my key projects, showcasing a wide range of machine learning applications:
+</div>
 
-1. [Automatic Number Plate Recognition (ANPR) System](https://github.com/Ramtin-Karbaschi/anpr-system)
-   - A computer vision project using YOLO-based models to automatically recognize and extract number plates from images or videos.
-   - Implemented using Python, OpenCV, and TensorFlow.
-
-2. [Sentiment Analysis Pipeline](https://github.com/Ramtin-Karbaschi/sentiment-analysis-pipeline)
-   - Developed a sentiment analysis system using PyTorch for natural language processing tasks.
-   - Utilized deep learning models to classify text sentiment.
-   
-3. [Behavioral Pattern Analysis](https://github.com/Ramtin-Karbaschi/behavioral-pattern-analysis)
-   - Conducted behavioral pattern analysis using various statistical methods.
-   - Analyzed large-scale data sets to derive meaningful insights and predict user behavior.
-   
-4. [Mobile Device Market Segmentation](https://github.com/Ramtin-Karbaschi/mobile-segmentation)
-   - Utilized unsupervised learning techniques to segment the mobile device market.
-   - Analyzed customer data to identify user preferences and create targeted marketing strategies.
-
-Feel free to explore all my repositories on [GitHub](https://github.com/Ramtin-Karbaschi).
-
--------
+---
 
 ## 📈 GitHub Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Ramtin-Karbaschi&show_icons=true&count_private=true&theme=dark)
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Ramtin-Karbaschi&show_icons=true&count_private=true&theme=radical&bg_color=00000000" />
+  &nbsp &nbsp &nbsp &nbsp &nbsp
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=Ramtin-Karbaschi&theme=radical&background=00000000" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ramtin-Karbaschi&layout=compact&theme=dark)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ramtin-Karbaschi&theme=darkhub)](https://github.com/Ramtin-Karbaschi)
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ramtin-Karbaschi&theme=radical)](https://git.io/streak-stats)
-
--------
-
-## 💬 Introduction
-
-With a love for machine learning and data analysis, I am constantly experimenting with various algorithms and exploring practical applications. I have a strong proficiency in areas such as computer vision, natural language processing, and statistical modeling. Through my projects, I aim to solve complex problems and gain meaningful insights from data.
-
-As a team player, I actively collaborate with other developers and contribute to their repositories to expand my skill set and share my expertise. I am always open to new opportunities and challenges in the field of machine learning and data analysis.
-
-Feel free to reach out to me via email or connect with me on LinkedIn or Twitter. Let's discuss exciting projects and potential collaborations!
-
--------
+---
+<p align="right">
+    <img src="https://komarev.com/ghpvc/?username=Ramtin-Karbaschi&style=flat-square&color=blue" alt="Profile Views" />
+</p>
