@@ -1,46 +1,45 @@
 <div align="center">
   
-# Hi there, I'm Ramtin Karbaschi 👋
+# Hi there, I'm Ramtin Karbaschi <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="30px">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Machine+Learning+Enthusiast;Data+Analysis+Expert;Open+Source+Contributor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=5000&duration=20000&color=36BCF7&center=true&vCenter=true&width=1600&lines=Machine+Learning+%7C+Data+Analysis+%7C+Deep+Learning+%7C+Computer+Vision+%7C+Natural+Language+Processing+%7C+Open-Source+Contribution)](https://git.io/typing-svg)</div>
 
-</div>
 
----
 
 ## 🧐 About Me
 
-I'm passionate about exploring the boundaries of machine learning and data analysis. With expertise in computer vision, NLP, and statistical modeling, I transform complex data into actionable insights. I'm constantly learning and improving my skills through practical applications and actively collaborate on open-source projects.
+I possess a fervent enthusiasm for exploring the frontiers of artificial intelligence and data analysis. With significant experience in computer vision, natural language processing, and statistical modeling, I endeavor to adeptly convert complex data into actionable insights. I am committed to continuous learning and skill enhancement through practical applications and active participation in collaborative open-source projects.
 
 <p align="right">
-    <img href="mailto:ramtin.karbaschi@example.com" src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" width="20" height="20" alt="Email" />
-    &nbsp
-    <img href="https://linkedin.com/in/ramtin-karbaschi" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" width="20" height="20" alt="LinkedIn" />
-    &nbsp
-    <img href="https://twitter.com/RamtinKarbaschi" src="https://cdn-icons-png.flaticon.com/128/3256/3256013.png" width="20" height="20" alt="Twitter" />
-    &nbsp
-    <img href="https://t.me/RamtinKarbaschi" src="https://cdn-icons-png.flaticon.com/128/2111/2111646.png" width="20" height="20" alt="Telegram" />
+    <a href="mailto:ramtin.karbaschi@example.com"><img src="https://cdn-icons-png.flaticon.com/128/5968/5968534.png" width="20" height="20" alt="Email" /></a>
+    &nbsp &nbsp
+    <a href="https://linkedin.com/in/ramtin-karbaschi"><img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" width="20" height="20" alt="LinkedIn" /></a>
+    &nbsp &nbsp
+    <a href="https://twitter.com/RamtinKarbaschi"><img src="https://cdn-icons-png.flaticon.com/128/3256/3256013.png" width="20" height="20" alt="Twitter" /></a>
+    &nbsp &nbsp
+    <a href="https://t.me/RamtinKarbaschi"><img src="https://cdn-icons-png.flaticon.com/128/2111/2111646.png" width="20" height="20" alt="Telegram" /></a>
 </p>
-
----
 
 ## 🚀 Skills & Technologies
 
 <div align="center">
   
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40" alt="PyTorch" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="Pandas" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" alt="NumPy" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="40" height="40" alt="Keras" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" height="40" alt="OpenCV" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="Jupyter" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scipy/scipy-original.svg" width="40" height="40" alt="SciPy" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="40" height="40" alt="Matplotlib" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" width="40" height="40" alt="Plotly" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" alt="Scikit-Learn" />
+  </div>
 
 </div>
-
----
 
 ## 📈 GitHub Stats
 
@@ -52,5 +51,5 @@ I'm passionate about exploring the boundaries of machine learning and data analy
 
 ---
 <p align="right">
-    <img src="https://komarev.com/ghpvc/?username=Ramtin-Karbaschi&style=flat-square&color=blue" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=Ramtin-Karbaschi&style=plastic&color=blue" alt="Profile Views" />
 </p>
