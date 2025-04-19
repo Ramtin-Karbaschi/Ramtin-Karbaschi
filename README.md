@@ -25,7 +25,7 @@
     <div align="center">
         <a href="mailto:ramtin.karbaschi@example.com"><img src="https://img.icons8.com/?size=100&id=rUgzXdXFnhmg&format=png&color=ef4f91" width="30" height="30" alt="Gmail"></a>
         &nbsp;&nbsp;
-        <a href="Follow me on LinkedIn: www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=ramtinkarbaschi"><img src="https://img.icons8.com/?size=100&id=447&format=png&color=ef4f91" width="30" height="30" alt="LinkedIn"></a>
+        <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=ramtinkarbaschi"><img src="https://img.icons8.com/?size=100&id=447&format=png&color=ef4f91" width="30" height="30" alt="LinkedIn"></a>
         &nbsp;&nbsp;
         <a href="https://X.com/RamtinKarbaschi"><img src="https://img.icons8.com/?size=100&id=fJp7hepMryiw&format=png&color=ef4f91" width="30" height="30" alt="X"></a>
         &nbsp;&nbsp;
