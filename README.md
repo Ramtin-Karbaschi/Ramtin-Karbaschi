@@ -1,11 +1,11 @@
 <div align="center">
     <h1>
-        $${\color{#ef4f91} \Huge \textsf {Hi\:there,\:I'm\:RAMTIN\:KARBASCHI}}$$
+        <strong>Hi there, I'm RAMTIN KARBASCHI</strong>
         <img src="https://media.tenor.com/tkkcqnsETXYAAAAj/man-raising-hand-joypixels.gif" width="50px" alt="Waving Hand GIF">
     </h1>
     <div align="center">
         <a href="https://git.io/typing-svg">
-            <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=5000&duration=20000&color=c79dd7&center=true&vCenter=true&width=1000&lines=Machine+Learning+%7C+Deep+Learning+%7C+Computer+Vision+%7C+Natural+Language+Processing" alt="Typing SVG" />
+            <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=5000&duration=20000&color=ef4f91&center=true&vCenter=true&width=1000&lines=Machine+Learning+%7C+Deep+Learning+%7C+Computer+Vision+%7C+Natural+Language+Processing" alt="Typing SVG" />
         </a>
     </div>
 </div>
