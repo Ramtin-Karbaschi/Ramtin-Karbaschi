@@ -5,7 +5,7 @@
     </h1>
     <div align="center">
         <a href="https://git.io/typing-svg">
-            <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=5000&duration=20000&color=ef4f91&center=true&vCenter=true&width=1000&lines=Machine+Learning+%7C+Deep+Learning+%7C+Computer+Vision+%7C+Natural+Language+Processing" alt="Typing SVG" />
+            <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=5000&duration=20000&color=ef4f91&center=true&vCenter=true&width=1100&lines=Machine+Learning+%7C+Deep+Learning+%7C+Computer+Vision+%7C+Natural+Language+Processing+%7C+LLM" alt="Typing SVG" />
         </a>
     </div>
 </div>
@@ -25,7 +25,7 @@
     <div align="center">
         <a href="mailto:ramtin.karbaschi@example.com"><img src="https://img.icons8.com/?size=100&id=rUgzXdXFnhmg&format=png&color=ef4f91" width="30" height="30" alt="Gmail"></a>
         &nbsp;&nbsp;
-        <a href="https://linkedin.com/in/ramtin-karbaschi"><img src="https://img.icons8.com/?size=100&id=447&format=png&color=ef4f91" width="30" height="30" alt="LinkedIn"></a>
+        <a href="Follow me on LinkedIn: www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=ramtinkarbaschi"><img src="https://img.icons8.com/?size=100&id=447&format=png&color=ef4f91" width="30" height="30" alt="LinkedIn"></a>
         &nbsp;&nbsp;
         <a href="https://X.com/RamtinKarbaschi"><img src="https://img.icons8.com/?size=100&id=fJp7hepMryiw&format=png&color=ef4f91" width="30" height="30" alt="X"></a>
         &nbsp;&nbsp;
