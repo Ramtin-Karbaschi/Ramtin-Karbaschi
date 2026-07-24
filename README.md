@@ -1,270 +1,168 @@
 <p align="center">
-  <img
-    src="./assets/profile-banner.svg"
-    width="100%"
-    alt="Ramtin Karbaschi — AI Systems Architect"
-  />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="assets/hero-dark.png"
+    >
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="assets/hero-light.png"
+    >
+    <img
+      src="assets/hero-dark.png"
+      width="100%"
+      alt="Ramtin Karbaschi — AI Systems Architect"
+    >
+  </picture>
 </p>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=900&color=14B8A6&center=true&vCenter=true&repeat=true&width=900&height=40&lines=Building+private%2C+reproducible+AI+infrastructure;Designing+local+LLM+and+agentic+systems;Turning+complex+AI+ideas+into+operational+products"
-      alt="Professional focus"
-    />
-  </a>
+  <a href="mailto:ramtin.karbaschi@gmail.com">Email</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/ramtinkarbaschi/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/Ramtin-Karbaschi/ai-station">AI Station</a>
+  &nbsp;·&nbsp;
+  <a href="https://t.me/RamtinKarbaschi">Telegram</a>
+  &nbsp;·&nbsp;
+  <a href="https://x.com/RamtinKarbaschi">X</a>
 </p>
 
 <p align="center">
-  <a href="mailto:ramtin.karbaschi@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Email-ramtin.karbaschi%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email"
-    />
-  </a>
-  <a href="https://www.linkedin.com/in/ramtinkarbaschi/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
-  <a href="https://t.me/RamtinKarbaschi">
-    <img
-      src="https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"
-      alt="Telegram"
-    />
-  </a>
-  <a href="https://x.com/RamtinKarbaschi">
-    <img
-      src="https://img.shields.io/badge/X-Follow-111111?style=for-the-badge&logo=x&logoColor=white"
-      alt="X"
-    />
-  </a>
+  <strong>
+    I design private AI platforms and turn complex technical ideas
+    into reliable, maintainable systems.
+  </strong>
 </p>
 
 <br>
 
-> I build local-first AI platforms, intelligent products and dependable
-> automation systems—where model quality, privacy, reproducibility and
-> operational reliability are treated as engineering requirements.
+## Profile
 
-<br>
+I work across **AI systems architecture, local inference, agentic workflows,
+document intelligence and technical product development**.
 
-## Currently building
+My focus is not simply making models run. I build the surrounding engineering
+required for long-term use: clear architecture, reproducible deployment,
+resource control, observability, rollback and evidence-based technical
+decisions.
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="assets/focus-dark.png"
+    >
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="assets/focus-light.png"
+    >
+    <img
+      src="assets/focus-dark.png"
+      width="100%"
+      alt="Areas of technical focus"
+    >
+  </picture>
+</p>
+
+## Featured work
 
 <a href="https://github.com/Ramtin-Karbaschi/ai-station">
   <img
-    src="https://raw.githubusercontent.com/Ramtin-Karbaschi/ai-station/main/docs/assets/ai-station-banner.svg"
+    src="assets/projects/ai-station.png"
     width="100%"
     alt="AI Station"
-  />
+  >
 </a>
 
 <br>
 
-<table>
-  <tr>
-    <td width="25%" align="center">
-      <strong>Private inference</strong>
-      <br>
-      <sub>Local models and loopback-only services</sub>
-    </td>
-    <td width="25%" align="center">
-      <strong>Multi-project API</strong>
-      <br>
-      <sub>OpenAI-compatible local endpoints</sub>
-    </td>
-    <td width="25%" align="center">
-      <strong>Document intelligence</strong>
-      <br>
-      <sub>RAG, search, OCR and speech</sub>
-    </td>
-    <td width="25%" align="center">
-      <strong>Reproducible operation</strong>
-      <br>
-      <sub>Pinned images, models and audits</sub>
-    </td>
-  </tr>
-</table>
-
 <p align="center">
-  <a href="https://github.com/Ramtin-Karbaschi/ai-station">
-    <img
-      src="https://img.shields.io/badge/EXPLORE_AI_STATION-Open_repository-14B8A6?style=for-the-badge&logo=github&logoColor=white"
-      alt="Explore AI Station"
-    />
-  </a>
-  <a href="https://github.com/Ramtin-Karbaschi/ai-station/blob/main/docs/ARCHITECTURE.md">
-    <img
-      src="https://img.shields.io/badge/ARCHITECTURE-Read_the_design-2563EB?style=for-the-badge"
-      alt="Architecture"
-    />
-  </a>
-  <a href="https://github.com/Ramtin-Karbaschi/ai-station/blob/main/LICENSE">
-    <img
-      src="https://img.shields.io/badge/LICENSE-MIT-7C3AED?style=for-the-badge"
-      alt="MIT License"
-    />
-  </a>
-</p>
-
-<br>
-
-## What I build
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-### 🧠 Local AI platforms
-
-Private inference, model serving, hardware-aware scheduling and reusable
-AI infrastructure for multiple products.
-
-  </td>
-  <td width="50%" valign="top">
-
-### ⚙️ Agentic systems
-
-Tool-using agents, coding workflows, automation pipelines and controlled
-human-in-the-loop execution.
-
-  </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-### 📚 Knowledge systems
-
-RAG, hybrid retrieval, embeddings, reranking, document understanding,
-OCR and auditable evidence pipelines.
-
-  </td>
-  <td width="50%" valign="top">
-
-### 🏗️ Engineering intelligence
-
-AI-assisted technical review, deterministic rule engines and decision-support
-systems for complex engineering domains.
-
-  </td>
-  </tr>
-</table>
-
-<br>
-
-## Selected work
-
-<p align="center">
-  <a href="https://github.com/Ramtin-Karbaschi/ai-station">
-    <img
-      src="./profile/ai-station.svg"
-      width="49%"
-      alt="AI Station repository card"
-    />
-  </a>
   <a href="https://github.com/Ramtin-Karbaschi/ContentFusion-LLM">
     <img
-      src="./profile/contentfusion-llm.svg"
+      src="assets/projects/contentfusion.png"
       width="49%"
-      alt="ContentFusion LLM repository card"
-    />
+      alt="ContentFusion LLM"
+    >
+  </a>
+  <a href="https://github.com/Ramtin-Karbaschi/PlateNumberDetection_and_SentimentAnalysis">
+    <img
+      src="assets/projects/plate-sentiment.png"
+      width="49%"
+      alt="Plate Number Detection and Sentiment Analysis"
+    >
   </a>
 </p>
 
-<br>
-
-## Technical toolkit
-
 <p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,postgres,redis,docker&theme=dark&perline=8"
-    alt="Primary AI and backend technologies"
-  />
+  <a href="https://github.com/Ramtin-Karbaschi/BehaviorDetection_and_MobileMarketAnalysis">
+    <img
+      src="assets/projects/behavior-market.png"
+      width="49%"
+      alt="Behavior Detection and Mobile Market Analysis"
+    >
+  </a>
 </p>
 
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=linux,git,githubactions,vscode,bash,nginx,grafana,prometheus&theme=dark&perline=8"
-    alt="Infrastructure and operations technologies"
-  />
-</p>
+## Engineering approach
+
+| Principle | Practical meaning |
+|---|---|
+| **Local-first** | Sensitive workloads and organizational knowledge remain under local control. |
+| **Benchmark-driven** | Technology is selected by measured performance and reliability—not hype. |
+| **Reproducible** | Images, models, configuration and installation paths are explicitly controlled. |
+| **Auditable** | Important decisions, checks, failures and recovery paths remain traceable. |
 
 <p align="center">
-  <sub>
-    Also working with local LLM serving, GGUF, pgvector, LiteLLM,
-    Hugging Face, LangChain, SearXNG, Apache Tika and Whisper.
-  </sub>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="assets/toolkit-dark.png"
+    >
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="assets/toolkit-light.png"
+    >
+    <img
+      src="assets/toolkit-dark.png"
+      width="100%"
+      alt="Core technical toolkit"
+    >
+  </picture>
 </p>
-
-<br>
-
-## GitHub activity
-
-<p align="center">
-  <img
-    src="./profile/stats.svg"
-    width="56%"
-    alt="Ramtin Karbaschi GitHub statistics"
-  />
-  <img
-    src="./profile/top-languages.svg"
-    width="41%"
-    alt="Languages used in public repositories"
-  />
-</p>
-
-<p align="center">
-  <sub>
-    These cards are generated inside this repository using GitHub Actions.
-    Language distribution reflects public repository code, not proficiency.
-  </sub>
-</p>
-
-<br>
 
 ## Background
 
-My work combines **AI engineering, software architecture, technical
-operations and product development**.
+My work combines **AI engineering, software architecture, product development
+and technical operations**.
 
-Before focusing on AI systems, I worked in structural engineering and project
-delivery. That background continues to influence how I design software:
-explicit assumptions, measurable acceptance criteria, traceable decisions,
-controlled change and reliable failure recovery.
+My earlier background in structural engineering continues to influence how I
+approach software: assumptions should be explicit, decisions should be
+traceable, acceptance criteria should be measurable and critical systems
+should fail predictably.
 
-<br>
+## Current direction
 
-## Open to collaboration
+- Adaptive local inference architectures
+- Multi-project AI platforms
+- Agentic IDE and coding workflows
+- RAG, hybrid retrieval and reranking
+- Document and engineering intelligence
+- Reliable local automation
+- Auditable AI decision-support systems
 
-I am interested in technically serious work involving:
+## Collaboration
 
-* local and on-premise AI infrastructure;
-* applied AI products and intelligent automation;
-* agentic development environments;
-* RAG and document intelligence;
-* engineering and compliance systems;
-* computer vision and multimodal applications;
-* reproducible AI deployment and MLOps.
+I am open to technically serious collaboration involving local AI
+infrastructure, intelligent products, RAG, document understanding, computer
+vision, agentic systems and engineering-focused AI.
 
 <p align="center">
   <a href="mailto:ramtin.karbaschi@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Start_a_conversation-ramtin.karbaschi%40gmail.com-14B8A6?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Contact Ramtin Karbaschi"
-    />
+    <strong>ramtin.karbaschi@gmail.com</strong>
   </a>
 </p>
 
-<br>
-
 <p align="center">
-  <strong>Private by design. Evidence-driven by practice. Built to last.</strong>
-</p>
-
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=Ramtin-Karbaschi&style=flat-square&color=14b8a6&label=PROFILE+VIEWS"
-    alt="Profile views"
-  />
+  <sub>Private by design · Evidence-driven by practice · Built for long-term use</sub>
 </p>
