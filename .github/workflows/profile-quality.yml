@@ -17,7 +17,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Check out Repository
+      - name: Check out repository
         uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5
 
       - name: Set up Python
@@ -25,5 +25,8 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Validate profile assets
+      - name: Install Pillow
+        run: python -m pip install --disable-pip-version-check Pillow==11.3.0
+
+      - name: Validate profile design
         run: python scripts/verify_profile.py

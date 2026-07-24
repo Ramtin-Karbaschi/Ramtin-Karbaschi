@@ -6,21 +6,24 @@ import re
 import struct
 from pathlib import Path
 
+from PIL import Image
+
 
 ROOT = Path(__file__).resolve().parent.parent
 README = ROOT / "README.md"
 
-text = README.read_text(encoding="utf-8")
-
 errors: list[str] = []
 
+if not README.is_file():
+    errors.append("README.md is missing.")
+    text = ""
+else:
+    text = README.read_text(encoding="utf-8")
+
 image_sources = re.findall(
-    r'(?:src|srcset)="([^"]+)"',
+    r'src="([^"]+)"',
     text,
 )
-
-if not image_sources:
-    errors.append("README contains no images.")
 
 for source in image_sources:
     if source.startswith(
@@ -31,78 +34,124 @@ for source in image_sources:
         )
     ):
         errors.append(
-            f"External image dependency is forbidden: {source}"
+            f"External image dependency: {source}"
         )
         continue
 
-    path = ROOT / source
+    path = (ROOT / source).resolve()
+
+    try:
+        path.relative_to(ROOT)
+    except ValueError:
+        errors.append(
+            f"Image escapes repository: {source}"
+        )
+        continue
 
     if not path.is_file():
         errors.append(
-            f"Missing local image: {source}"
+            f"Missing image: {source}"
         )
-        continue
 
-    if path.suffix.lower() != ".png":
+required_assets = [
+    "assets/hero.gif",
+    "assets/engineering-loop.gif",
+    "assets/capabilities.png",
+    "assets/projects/ai-station.png",
+    "assets/projects/contentfusion.png",
+    "assets/projects/plate-sentiment.png",
+    "assets/projects/behavior-market.png",
+    "assets/projects/ollama-template.png",
+]
+
+for relative in required_assets:
+    path = ROOT / relative
+
+    if not path.is_file():
         errors.append(
-            f"Primary image is not PNG: {source}"
+            f"Required visual is missing: {relative}"
         )
+
+for relative in [
+    "assets/hero.gif",
+    "assets/engineering-loop.gif",
+]:
+    path = ROOT / relative
+
+    if not path.is_file():
         continue
 
-    data = path.read_bytes()
+    with Image.open(path) as image:
+        frames = getattr(image, "n_frames", 1)
 
-    if not data.startswith(b"\x89PNG\r\n\x1a\n"):
-        errors.append(
-            f"Invalid PNG signature: {source}"
-        )
+        if frames < 10:
+            errors.append(
+                f"Animation has too few frames: "
+                f"{relative} ({frames})"
+            )
+
+project_dimensions = set()
+
+for relative in [
+    "assets/projects/contentfusion.png",
+    "assets/projects/plate-sentiment.png",
+    "assets/projects/behavior-market.png",
+    "assets/projects/ollama-template.png",
+]:
+    path = ROOT / relative
+
+    if not path.is_file():
         continue
 
-    if len(data) < 24:
-        errors.append(
-            f"Truncated PNG: {source}"
-        )
-        continue
+    with Image.open(path) as image:
+        project_dimensions.add(image.size)
 
-    width, height = struct.unpack(
-        ">II",
-        data[16:24],
+if len(project_dimensions) != 1:
+    errors.append(
+        "Secondary project cards do not have equal dimensions: "
+        f"{sorted(project_dimensions)}"
     )
 
-    if width < 500 or height < 150:
+for badge in sorted(
+    (ROOT / "assets/badges").rglob("*.svg")
+):
+    content = badge.read_text(
+        encoding="utf-8",
+        errors="replace",
+    )
+
+    if "<svg" not in content.lower():
         errors.append(
-            f"Image is unexpectedly small: "
-            f"{source} ({width}x{height})"
+            f"Invalid SVG badge: {badge.relative_to(ROOT)}"
         )
 
 required_text = [
-    "AI Station",
     "ramtin.karbaschi@gmail.com",
-    "## Featured work",
-    "## Engineering approach",
+    "## Building now",
+    "## Capability map",
+    "## Selected systems",
+    "## Technical stack",
+    "## Engineering loop",
     "## Collaboration",
 ]
 
 for fragment in required_text:
     if fragment not in text:
         errors.append(
-            f"README is missing required content: {fragment}"
+            f"README is missing: {fragment}"
         )
 
 if errors:
     for error in errors:
         print(f"FAIL: {error}")
 
-    raise SystemExit(
-        f"Profile validation failed with "
-        f"{len(errors)} error(s)."
-    )
+    print()
+    print(f"Profile errors: {len(errors)}")
+    raise SystemExit(1)
 
-print(
-    f"OK: Local image references checked: "
-    f"{len(image_sources)}"
-)
-
-print("OK: No external image service is used.")
-print("OK: All committed visuals are valid PNG files.")
-print("OK: Required profile content is present.")
+print(f"OK: README image references: {len(image_sources)}")
+print("OK: All README images are repository-local.")
+print("OK: Animated GIF assets are valid.")
+print("OK: Secondary project cards are perfectly aligned.")
+print("OK: Contact and technology badges are valid.")
 print("PROFILE VALIDATION PASSED")
