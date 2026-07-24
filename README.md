@@ -1,92 +1,270 @@
-<div align="center">
-    <h1>
-        <strong>Hi there, I'm RAMTIN KARBASCHI</strong>
-        <img src="https://media.tenor.com/tkkcqnsETXYAAAAj/man-raising-hand-joypixels.gif" width="50px" alt="Waving Hand GIF">
-    </h1>
-    <div align="center">
-        <a href="https://git.io/typing-svg">
-            <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=5000&duration=20000&color=ef4f91&center=true&vCenter=true&width=1100&lines=Machine+Learning+%7C+Deep+Learning+%7C+Computer+Vision+%7C+Natural+Language+Processing+%7C+LLM" alt="Typing SVG" />
-        </a>
-    </div>
-</div>
+<p align="center">
+  <img
+    src="./assets/profile-banner.svg"
+    width="100%"
+    alt="Ramtin Karbaschi — AI Systems Architect"
+  />
+</p>
 
-<br />
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=900&color=14B8A6&center=true&vCenter=true&repeat=true&width=900&height=40&lines=Building+private%2C+reproducible+AI+infrastructure;Designing+local+LLM+and+agentic+systems;Turning+complex+AI+ideas+into+operational+products"
+      alt="Professional focus"
+    />
+  </a>
+</p>
 
-<div>
-    <p align="justify">
-        I am fervently enthusiastic about exploring the frontiers of artificial intelligence and data analysis. With significant experience in computer vision, natural language processing, and statistical modeling, I endeavor to convert complex data into actionable insights adeptly. I am committed to continuous learning and skill enhancement through practical applications and active participation in collaborative open-source projects.
-    </p>
-</div>
+<p align="center">
+  <a href="mailto:ramtin.karbaschi@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Email-ramtin.karbaschi%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/ramtinkarbaschi/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+  <a href="https://t.me/RamtinKarbaschi">
+    <img
+      src="https://img.shields.io/badge/Telegram-Message-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"
+      alt="Telegram"
+    />
+  </a>
+  <a href="https://x.com/RamtinKarbaschi">
+    <img
+      src="https://img.shields.io/badge/X-Follow-111111?style=for-the-badge&logo=x&logoColor=white"
+      alt="X"
+    />
+  </a>
+</p>
 
-<br />
+<br>
 
-<div>
-    <h3 align="center">Connect with me:</h3>
-    <div align="center">
-        <a href="mailto:ramtin.karbaschi@example.com"><img src="https://img.icons8.com/?size=100&id=rUgzXdXFnhmg&format=png&color=ef4f91" width="30" height="30" alt="Gmail"></a>
-        &nbsp;&nbsp;
-        <a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=ramtinkarbaschi"><img src="https://img.icons8.com/?size=100&id=447&format=png&color=ef4f91" width="30" height="30" alt="LinkedIn"></a>
-        &nbsp;&nbsp;
-        <a href="https://X.com/RamtinKarbaschi"><img src="https://img.icons8.com/?size=100&id=fJp7hepMryiw&format=png&color=ef4f91" width="30" height="30" alt="X"></a>
-        &nbsp;&nbsp;
-        <a href="https://t.me/RamtinKarbaschi"><img src="https://img.icons8.com/?size=100&id=TCnKnYZFoOzM&format=png&color=ef4f91" width="30" height="30" alt="Telegram"></a>
-        &nbsp;&nbsp;
-        <a href="https://wa.me/+60105814756"><img src="https://img.icons8.com/?size=100&id=16712&format=png&color=ef4f91" width="30" height="30" alt="WhatsApp"></a>
-        &nbsp;&nbsp;
-        <a href="https://discord.com/users/622510552924684323"><img src="https://img.icons8.com/?size=100&id=gxdxl0oMFoSA&format=png&color=ef4f91" width="30" height="30" alt="Discord"></a>
-</div>
-    <p align="center" style="font-size: 0.8em; color: #888;">
-        <i>Feel free to reach out for collaborations, questions, or just to say hello!</i>
-    </p>
-</div>
+> I build local-first AI platforms, intelligent products and dependable
+> automation systems—where model quality, privacy, reproducibility and
+> operational reliability are treated as engineering requirements.
 
-<br />
-<br />
-<br />
-<br />
-<br />
+<br>
 
-<div align="center">
-    <div style="display: flex; flex-wrap: wrap; gap: 5%; width: 100%; justify-content: center;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="width: 5%; min-width: 30px; height: auto;" alt="Python" />
-        &nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" style="width: 5%; min-width: 30px; height: auto;" alt="Jupyter" />
-        &nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" style="width: 5%; min-width: 30px; height: auto;" alt="Matplotlib" />
-        &nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" style="width: 5%; min-width: 30px; height: auto;" alt="Plotly" />
-        &nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" style="width: 5%; min-width: 30px; height: auto;" alt="Pandas" />
-        &nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" style="width: 5%; min-width: 30px; height: auto;" alt="NumPy" />
-        &nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" style="width: 5%; min-width: 30px; height: auto;" alt="Scikit-Learn" />
-        &nbsp;
-        <img src="https://scipy.org/images/logo.svg" style="width: 5%; min-width: 30px; height: auto;" alt="SciPy" />
-        &nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" style="width: 5%; min-width: 30px; height: auto;" alt="TensorFlow" />
-        &nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" style="width: 5%; min-width: 30px; height: auto;" alt="PyTorch" />
-        &nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" style="width: 5%; min-width: 30px; height: auto;" alt="Keras" />
-        &nbsp;
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" style="width: 5%; min-width: 30px; height: auto;" alt="OpenCV" />
-        &nbsp;
-        <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" style="width: 5%; min-width: 30px; height: auto;" alt="Transformers" />
-    </div>
-</div>
+## Currently building
 
-<br />
-<br />
+<a href="https://github.com/Ramtin-Karbaschi/ai-station">
+  <img
+    src="https://raw.githubusercontent.com/Ramtin-Karbaschi/ai-station/main/docs/assets/ai-station-banner.svg"
+    width="100%"
+    alt="AI Station"
+  />
+</a>
 
-<div align="center">
-    <div style="display: flex; flex-wrap: wrap; gap: 5%; width: 100%; justify-content: center;">
-        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXNkOWJpZnY1bmszZnlxeTN1bGwwbnR6bWR4cGRtdmEzYnh6bnZxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/rcVbBdYGLomLH6xzNq/giphy.gif" style="width: 100%;" height="80" alt="Footer GIF">
-    </div>
-    <br />
-    <div>
-        <p align="right">
-            <img src="https://komarev.com/ghpvc/?username=Ramtin-Karbaschi&style=plastic&color=f75c7e" alt="Profile Views" />
-        </p>
-    </div>
-</div>
+<br>
+
+<table>
+  <tr>
+    <td width="25%" align="center">
+      <strong>Private inference</strong>
+      <br>
+      <sub>Local models and loopback-only services</sub>
+    </td>
+    <td width="25%" align="center">
+      <strong>Multi-project API</strong>
+      <br>
+      <sub>OpenAI-compatible local endpoints</sub>
+    </td>
+    <td width="25%" align="center">
+      <strong>Document intelligence</strong>
+      <br>
+      <sub>RAG, search, OCR and speech</sub>
+    </td>
+    <td width="25%" align="center">
+      <strong>Reproducible operation</strong>
+      <br>
+      <sub>Pinned images, models and audits</sub>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/Ramtin-Karbaschi/ai-station">
+    <img
+      src="https://img.shields.io/badge/EXPLORE_AI_STATION-Open_repository-14B8A6?style=for-the-badge&logo=github&logoColor=white"
+      alt="Explore AI Station"
+    />
+  </a>
+  <a href="https://github.com/Ramtin-Karbaschi/ai-station/blob/main/docs/ARCHITECTURE.md">
+    <img
+      src="https://img.shields.io/badge/ARCHITECTURE-Read_the_design-2563EB?style=for-the-badge"
+      alt="Architecture"
+    />
+  </a>
+  <a href="https://github.com/Ramtin-Karbaschi/ai-station/blob/main/LICENSE">
+    <img
+      src="https://img.shields.io/badge/LICENSE-MIT-7C3AED?style=for-the-badge"
+      alt="MIT License"
+    />
+  </a>
+</p>
+
+<br>
+
+## What I build
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+### 🧠 Local AI platforms
+
+Private inference, model serving, hardware-aware scheduling and reusable
+AI infrastructure for multiple products.
+
+  </td>
+  <td width="50%" valign="top">
+
+### ⚙️ Agentic systems
+
+Tool-using agents, coding workflows, automation pipelines and controlled
+human-in-the-loop execution.
+
+  </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+### 📚 Knowledge systems
+
+RAG, hybrid retrieval, embeddings, reranking, document understanding,
+OCR and auditable evidence pipelines.
+
+  </td>
+  <td width="50%" valign="top">
+
+### 🏗️ Engineering intelligence
+
+AI-assisted technical review, deterministic rule engines and decision-support
+systems for complex engineering domains.
+
+  </td>
+  </tr>
+</table>
+
+<br>
+
+## Selected work
+
+<p align="center">
+  <a href="https://github.com/Ramtin-Karbaschi/ai-station">
+    <img
+      src="./profile/ai-station.svg"
+      width="49%"
+      alt="AI Station repository card"
+    />
+  </a>
+  <a href="https://github.com/Ramtin-Karbaschi/ContentFusion-LLM">
+    <img
+      src="./profile/contentfusion-llm.svg"
+      width="49%"
+      alt="ContentFusion LLM repository card"
+    />
+  </a>
+</p>
+
+<br>
+
+## Technical toolkit
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,postgres,redis,docker&theme=dark&perline=8"
+    alt="Primary AI and backend technologies"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=linux,git,githubactions,vscode,bash,nginx,grafana,prometheus&theme=dark&perline=8"
+    alt="Infrastructure and operations technologies"
+  />
+</p>
+
+<p align="center">
+  <sub>
+    Also working with local LLM serving, GGUF, pgvector, LiteLLM,
+    Hugging Face, LangChain, SearXNG, Apache Tika and Whisper.
+  </sub>
+</p>
+
+<br>
+
+## GitHub activity
+
+<p align="center">
+  <img
+    src="./profile/stats.svg"
+    width="56%"
+    alt="Ramtin Karbaschi GitHub statistics"
+  />
+  <img
+    src="./profile/top-languages.svg"
+    width="41%"
+    alt="Languages used in public repositories"
+  />
+</p>
+
+<p align="center">
+  <sub>
+    These cards are generated inside this repository using GitHub Actions.
+    Language distribution reflects public repository code, not proficiency.
+  </sub>
+</p>
+
+<br>
+
+## Background
+
+My work combines **AI engineering, software architecture, technical
+operations and product development**.
+
+Before focusing on AI systems, I worked in structural engineering and project
+delivery. That background continues to influence how I design software:
+explicit assumptions, measurable acceptance criteria, traceable decisions,
+controlled change and reliable failure recovery.
+
+<br>
+
+## Open to collaboration
+
+I am interested in technically serious work involving:
+
+* local and on-premise AI infrastructure;
+* applied AI products and intelligent automation;
+* agentic development environments;
+* RAG and document intelligence;
+* engineering and compliance systems;
+* computer vision and multimodal applications;
+* reproducible AI deployment and MLOps.
+
+<p align="center">
+  <a href="mailto:ramtin.karbaschi@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Start_a_conversation-ramtin.karbaschi%40gmail.com-14B8A6?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Contact Ramtin Karbaschi"
+    />
+  </a>
+</p>
+
+<br>
+
+<p align="center">
+  <strong>Private by design. Evidence-driven by practice. Built to last.</strong>
+</p>
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=Ramtin-Karbaschi&style=flat-square&color=14b8a6&label=PROFILE+VIEWS"
+    alt="Profile views"
+  />
+</p>

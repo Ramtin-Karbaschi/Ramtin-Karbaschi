@@ -1,0 +1,123 @@
+name: Update profile visuals
+
+on:
+schedule:
+- cron: "17 3 * * *"
+
+workflow_dispatch:
+
+permissions:
+contents: write
+
+concurrency:
+group: profile-visuals
+cancel-in-progress: true
+
+jobs:
+generate:
+runs-on: ubuntu-latest
+
+```
+steps:
+  - name: Check out profile repository
+    uses: actions/checkout@34e114876b0b11c390a56381ad16ebd13914f8d5
+
+  - name: Create output directory
+    run: mkdir -p profile
+
+  - name: Generate GitHub statistics
+    uses: stats-organization/github-readme-stats-action@v2.0.1
+    with:
+      card: stats
+      options: >-
+        username=${{ github.repository_owner }}
+        &show_icons=true
+        &hide_border=true
+        &bg_color=00000000
+        &title_color=14B8A6
+        &text_color=64748B
+        &icon_color=0EA5E9
+        &include_all_commits=true
+        &show=reviews,prs_merged
+      path: profile/stats.svg
+      core_version: 2.1.3
+      token: ${{ secrets.GITHUB_TOKEN }}
+      fail_on_error: true
+
+  - name: Generate language distribution
+    uses: stats-organization/github-readme-stats-action@v2.0.1
+    with:
+      card: top-langs
+      options: >-
+        username=${{ github.repository_owner }}
+        &layout=compact
+        &langs_count=6
+        &hide_border=true
+        &bg_color=00000000
+        &title_color=14B8A6
+        &text_color=64748B
+        &size_weight=0.5
+        &count_weight=0.5
+        &exclude_repo=Ramtin-Karbaschi
+      path: profile/top-languages.svg
+      core_version: 2.1.3
+      token: ${{ secrets.GITHUB_TOKEN }}
+      fail_on_error: true
+
+  - name: Generate AI Station project card
+    uses: stats-organization/github-readme-stats-action@v2.0.1
+    with:
+      card: pin
+      options: >-
+        username=${{ github.repository_owner }}
+        &repo=ai-station
+        &show_owner=false
+        &hide_border=true
+        &bg_color=00000000
+        &title_color=14B8A6
+        &text_color=64748B
+        &icon_color=0EA5E9
+        &description_lines_count=3
+      path: profile/ai-station.svg
+      core_version: 2.1.3
+      token: ${{ secrets.GITHUB_TOKEN }}
+      fail_on_error: true
+
+  - name: Generate ContentFusion project card
+    uses: stats-organization/github-readme-stats-action@v2.0.1
+    with:
+      card: pin
+      options: >-
+        username=${{ github.repository_owner }}
+        &repo=ContentFusion-LLM
+        &show_owner=false
+        &hide_border=true
+        &bg_color=00000000
+        &title_color=14B8A6
+        &text_color=64748B
+        &icon_color=0EA5E9
+        &description_lines_count=3
+      path: profile/contentfusion-llm.svg
+      core_version: 2.1.3
+      token: ${{ secrets.GITHUB_TOKEN }}
+      fail_on_error: true
+
+  - name: Commit generated visual cards
+    shell: bash
+    run: |
+      set -Eeuo pipefail
+
+      git config user.name "github-actions[bot]"
+      git config user.email \
+        "41898282+github-actions[bot]@users.noreply.github.com"
+
+      git add profile/*.svg
+
+      if git diff --cached --quiet; then
+        echo "Profile cards are already current."
+        exit 0
+      fi
+
+      git commit -m "chore: refresh profile visual cards"
+      git push
+```
