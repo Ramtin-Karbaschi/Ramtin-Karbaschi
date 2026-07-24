@@ -91,7 +91,7 @@ def vertical_gradient(
 def add_grid(
     image: Image.Image,
     spacing: int = 36,
-    opacity: int = 15,
+    opacity: int = 6,
 ) -> None:
     drawing = ImageDraw.Draw(image)
     width, height = image.size
@@ -299,7 +299,7 @@ def build_hero() -> None:
             "#0A111B",
         )
 
-        add_grid(image, spacing=38, opacity=13)
+        add_grid(image, spacing=38, opacity=6)
 
         glow_x = round(
             930 + math.sin(phase) * 95
@@ -692,7 +692,7 @@ def build_capabilities() -> None:
         "#0B121B",
     )
 
-    add_grid(image, 40, 11)
+    add_grid(image, 40, 5)
     add_glow(
         image,
         1100,
@@ -835,7 +835,7 @@ def build_project_card(
         "#0C1420",
     )
 
-    add_grid(image, 38, 10)
+    add_grid(image, 38, 4)
 
     add_glow(
         image,
