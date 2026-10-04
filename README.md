@@ -38,29 +38,40 @@
   <img src="https://api.iconify.design/logos/tensorflow.svg" width="48" height="48" alt="TensorFlow" title="TensorFlow">
   <img src="https://api.iconify.design/devicon/keras.svg" width="48" height="48" alt="Keras" title="Keras">
   <img src="https://api.iconify.design/logos/hugging-face-icon.svg" width="48" height="48" alt="Hugging Face" title="Hugging Face">
-  <img src="https://api.iconify.design/thesvg-color/langchain-dark.svg" width="48" height="48" alt="LangChain" title="LangChain">
   <img src="https://api.iconify.design/logos/opencv.svg" width="48" height="48" alt="OpenCV" title="OpenCV">
   <img src="https://api.iconify.design/devicon/scikitlearn.svg" width="48" height="48" alt="scikit-learn" title="scikit-learn">
   <img src="https://api.iconify.design/logos/numpy.svg" width="48" height="48" alt="NumPy" title="NumPy">
-  <img src="https://api.iconify.design/logos/pandas-icon.svg" width="48" height="48" alt="Pandas" title="Pandas">
+  <img src="https://api.iconify.design/devicon/pandas.svg?color=%23ffffff" width="48" height="48" alt="Pandas" title="Pandas">
   <img src="https://api.iconify.design/simple-icons/scipy.svg?color=%238CAAE6" width="48" height="48" alt="SciPy" title="SciPy">
-  <img src="https://api.iconify.design/logos/jupyter.svg" width="48" height="48" alt="Jupyter" title="Jupyter">
+  <img src="https://api.iconify.design/thesvg-color/yolo.svg?color=%238CAAE6" width="48" height="48" alt="Yolo" title="Yolo">
   <img src="https://api.iconify.design/logos/matplotlib-icon.svg" width="48" height="48" alt="Matplotlib" title="Matplotlib">
   <img src="https://api.iconify.design/devicon/plotly.svg" width="48" height="48" alt="Plotly" title="Plotly">
+  <img src="https://api.iconify.design/logos/jupyter.svg" width="48" height="48" alt="Jupyter" title="Jupyter">
+  <img src="https://api.iconify.design/selfhst/open-webui.svg" width="48" height="48" alt="Open WebUI" title="Open WebUI">
+  <img src="https://api.iconify.design/selfhst/ollama.svg" width="48" height="48" alt="Ollama" title="Ollama">
+  <img src="https://api.iconify.design/selfhst/llama-cpp.svg" width="48" height="48" alt="llama.cpp" title="llama.cpp">
+  <img src="https://api.iconify.design/selfhst/litellm.svg" width="48" height="48" alt="LiteLLM" title="LiteLLM">
+  <img src="https://api.iconify.design/thesvg-color/langchain-dark.svg" width="48" height="48" alt="LangChain" title="LangChain">
+  <img src="https://api.iconify.design/simple-icons/fastapi.svg?color=%23009587" width="48" height="48" alt="FastAPI" title="FastAPI">
   <img src="https://api.iconify.design/simple-icons/pydantic.svg?color=%23E92063" width="48" height="48" alt="Pydantic" title="Pydantic">
+  <img src="https://api.iconify.design/devicon/sqlite.svg" width="48" height="48" alt="SQLite" title="SQLite">
   <img src="https://api.iconify.design/logos/postgresql.svg" width="48" height="48" alt="PostgreSQL" title="PostgreSQL">
   <img src="https://api.iconify.design/simple-icons/redis.svg?color=%23E92063" width="48" height="48" alt="Redis" title="Redis">
-  <img src="https://api.iconify.design/logos/fastapi-icon.svg" width="48" height="48" alt="FastAPI" title="FastAPI">
   <img src="https://api.iconify.design/logos/docker-icon.svg" width="48" height="48" alt="Docker" title="Docker">
   <img src="https://api.iconify.design/logos/linux-tux.svg" width="48" height="48" alt="Linux" title="Linux">
   <img src="https://api.iconify.design/logos/ubuntu.svg" width="48" height="48" alt="Ubuntu" title="Ubuntu">
-  <img src="https://api.iconify.design/logos/nvidia.svg" width="48" height="48" alt="NVIDIA CUDA" title="NVIDIA CUDA">
+  <img src="https://api.iconify.design/material-icon-theme/cuda.svg" width="48" height="48" alt="NVIDIA CUDA" title="NVIDIA CUDA">
   <img src="https://api.iconify.design/logos/git-icon.svg" width="48" height="48" alt="Git" title="Git">
   <img src="https://api.iconify.design/simple-icons/searxng.svg?color=%233050FF" width="48" height="48" alt="SearXNG" title="SearXNG">
   <img src="https://api.iconify.design/logos/apache-software-foundation-icon.svg" width="48" height="48" alt="Apache Tika" title="Apache Tika">
-  <img src="https://api.iconify.design/selfhst/openai-light.svg" width="48" height="48" alt="Whisper" title="Whisper">
-  <img src="https://api.iconify.design/selfhst/open-webui.svg" width="48" height="48" alt="Open WebUI" title="Open WebUI">
-  <img src="https://api.iconify.design/devicon/cplusplus.svg" width="48" height="48" alt="llama.cpp" title="llama.cpp">
+  <img src="https://api.iconify.design/logos/n8n-icon.svg" width="48" height="48" alt="n8n" title="n8n">
+  <img src="https://api.iconify.design/simple-icons/crewai.svg?color=%23ffffff" width="48" height="48" alt="CrewAI" title="CrewAI">
+  <img src="https://api.iconify.design/selfhst/openai-light.svg" width="48" height="48" alt="OpenAI" title="OpenAI">
+  <img src="https://api.iconify.design/thesvg-color/anthropic-dark.svg" width="48" height="48" alt="Anthropic" title="Anthropic">
+  <img src="https://api.iconify.design/thesvg-color/xai.svg" width="48" height="48" alt="xAI" title="xAI">
+  <img src="https://api.iconify.design/logos/google-gemini-icon.svg" width="48" height="48" alt="Google AI Studio" title="Google AI Studio">
+  <img src="https://api.iconify.design/logos/qwen-icon.svg" width="48" height="48" alt="Qwen" title="Qwen">
+  <img src="https://api.iconify.design/logos/deepseek-icon.svg" width="48" height="48" alt="DeepSeek" title="DeepSeek">
   <!--
   <img src="https://api.iconify.design/logos/postgresql.svg" width="48" height="48" alt="pgvector" title="pgvector">
   <img src="https://api.iconify.design/logos/bash-icon.svg" width="48" height="48" alt="Bash" title="Bash">
