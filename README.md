@@ -5,6 +5,7 @@
 <h3>CONTACT ME
 <a href="mailto:ramtin.karbaschi@gmail.com"><img align="right" src="https://api.iconify.design/logos/google-gmail.svg" width="32" height="32" alt="Email" title="Email"></a>
 <a href="https://www.linkedin.com/in/ramtinkarbaschi/"><img align="right" src="https://api.iconify.design/logos/linkedin-icon.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn"></a>
+<a href="https://discord.com/users/622510552924684323"><img align="right" src="https://api.iconify.design/bi/discord.svg?color=%23ffffff" width="32" height="32" alt="Discord" title="Discord"></a>
 <a href="https://t.me/RamtinKarbaschi"><img align="right" src="https://api.iconify.design/logos/telegram.svg" width="32" height="32" alt="Telegram" title="Telegram"></a>
 <a href="https://x.com/RamtinKarbaschi"><img align="right" src="https://api.iconify.design/simple-icons/x.svg?color=%23FFFFFF" width="32" height="32" alt="X" title="X"></a>
 </h3>
